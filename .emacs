@@ -33,3 +33,4 @@
 (setq scroll-preserve-screen-position t)
 
 (load-file "~/.emacs.d/functions/header.el")
+(tab-bar-mode 1)
