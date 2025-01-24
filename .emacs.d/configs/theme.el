@@ -1,0 +1,1 @@
+(load-theme 'vscode-dark-plus t)

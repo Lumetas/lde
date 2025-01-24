@@ -1,0 +1,1 @@
+(cd (concat (getenv "HOME") "/"))
